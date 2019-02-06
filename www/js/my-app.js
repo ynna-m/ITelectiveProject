@@ -23,6 +23,26 @@ var app = new Framework7({
       path: '/navi/',
       url: 'navi.html',
     },
+    {
+      path: '/wedding_ceremony/',
+      url: 'wedding_ceremony.html',
+    },
+    {
+      path: '/wedding_reception/',
+      url: 'wedding_reception.html',
+    },
+    {
+      path: '/date_location/',
+      url: 'date_location.html',
+    },
+    {
+      path: '/entourage/',
+      url: 'entourage.html',
+    },
+    {
+      path: '/food_menu/',
+      url: 'food_menu.html',
+    },
   ],
   // ... other parameters
 });
