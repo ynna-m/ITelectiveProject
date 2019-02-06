@@ -19,30 +19,6 @@ var app = new Framework7({
       path: '/index/',
       url: 'index.html',
     },
-    {
-      path: '/adobo/',
-      url: 'adobo.html',
-    },
-    {
-      path: '/afritada/',
-      url: 'afritada.html',
-    },
-    {
-      path: '/bulalo/',
-      url: 'bulalo.html',
-    },
-    {
-      path: '/kinilaw/',
-      url: 'kinilaw.html',
-    },
-    {
-      path: '/sisig/',
-      url: 'sisig.html',
-    },
-    {
-      path: '/tinola/',
-      url: 'tinola.html',
-    },
   ],
   // ... other parameters
 });
