@@ -19,6 +19,10 @@ var app = new Framework7({
       path: '/index/',
       url: 'index.html',
     },
+    {
+      path: '/navi/',
+      url: 'navi.html',
+    },
   ],
   // ... other parameters
 });
