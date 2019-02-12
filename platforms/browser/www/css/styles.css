@@ -24,10 +24,9 @@
   src:url(Tangerine_Regular.ttf) format("truetype");
 }
 #backgroundcustom{
-  background:url("/img/background_index.jpg") no-repeat center center fixed !important;
+  background:url("../img/background_index.jpg") no-repeat center center fixed !important;
   background-size:cover !important;
 }
 .boldfont{
   font-weight:bold;
 }
-
