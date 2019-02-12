@@ -15,4 +15,18 @@
 }
 #coverText{
   text-align: center;
+  font-weight: bold;
+  font-family:"Tangerine";
+  src:url("Tangerine_Regular.ttf") format("truetype") ;
+}
+.tangerinefont @font-face{
+  font-family:"Tangerine";
+  src:url(Tangerine_Regular.ttf) format("truetype");
+}
+#backgroundcustom{
+  background:url("/img/background_index.jpg") no-repeat center center fixed !important;
+  background-size:cover !important;
+}
+.boldfont{
+  font-weight:bold;
 }
