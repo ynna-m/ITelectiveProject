@@ -43,6 +43,10 @@ var app = new Framework7({
       path: '/food_menu/',
       url: '/pages/food_menu.html',
     },
+    {
+      path: '/dev_page/',
+      url: '/pages/dev_page.html',
+    },
   ],
   // ... other parameters
 });
